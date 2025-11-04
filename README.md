@@ -21,11 +21,11 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 
 ## 🤔 Problem Solving:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/your_leetcode_username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your_gfg_username)
-[![CodeStudio](https://img.shields.io/badge/Coding%20Ninjas%20(Code360)-FF6F00.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/your_codestudio_username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/your_codechef_username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/arry03)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/arifqurn60)
+[![CodeStudio](https://img.shields.io/badge/Coding%20Ninjas%20(Code360)-FF6F00.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/arifquerry)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/arifquerry)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/arifquerry)
 
 ## 🌐 Connect with me:
 
