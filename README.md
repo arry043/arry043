@@ -1,8 +1,8 @@
 
-# Hi , I'm Arif
+# Hi 👋, I'm Arif
 **An upcoming Software Engineer**
 
-For collaboration **arifquerry@gmail.com**.
+For collaboration **arifquerry@gmail.com** 🙌😊.
 
 - 🔭 **I’m currently working on:** ...
 - 🌱 **I’m currently learning:** ...
