@@ -14,6 +14,9 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 - ⚡ **Fun fact:** ...
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arry043&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🤔 Problem Solving:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/your_leetcode_username)
@@ -21,9 +24,6 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 [![CodeStudio](https://img.shields.io/badge/Coding%20Ninjas%20(Code360)-FF6F00.svg?logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/your_codestudio_username)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/your_codechef_username)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arry043&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Connect with me:
 
