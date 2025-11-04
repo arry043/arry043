@@ -1,17 +1,19 @@
 
 # Hi 👋, I'm Arif  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arry03) 
-**An upcoming Software Engineer**
+
+**An Upcoming Software Engineer | Backend & MERN Developer | AI/ML Enthusiast**
 
 For collaboration **arifquerry@gmail.com** 🙌😊.
 
-- 🔭 **I’m currently working on:** ...
-- 🌱 **I’m currently learning:** ...
-- 👯 **I’m looking to collaborate on:** ...
-- 🤔 **I’m looking for help with:** ...
-- 💬 **Ask me about:** ...
-- 📫 **How to reach me:** ...
-- 😄 **Pronouns:** ...
-- ⚡ **Fun fact:** ...
+### 🚀 About Me
+- 🎓 **B.Tech CSE student (2026)** at **CCS University, Meerut**  
+- 💻 Passionate about **Backend Development**, **APIs**, and **Automation**
+- ⚙️ Experienced with **Django**, **MERN Stack**, and **RESTful Services**
+- 🤖 Exploring **Machine Learning** and **AI-driven applications**
+- 🌱 Currently learning **NLP**, **GenAI**, and **Advanced DSA**
+- 👯 Looking to collaborate on **open-source** and **real-world tech projects**
+- 💬 Ask me about **Python, Django, MERN, or REST API design**
+- ⚡ Fun fact: I love turning complex problems into clean, efficient code.
 
 
 ## 🏆 GitHub Trophies
