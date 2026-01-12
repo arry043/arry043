@@ -11,7 +11,7 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 - 🤖 Exploring **Machine Learning** and **AI-driven applications**
 - 🌱 Currently learning **NLP**, **GenAI**, and **Advanced DSA**
 - 👯 Looking to collaborate on **open-source** and **real-world tech projects**
-- 💬 Ask me about **Python, Django, MERN, or REST API design**
+- 💬 Ask me about **Python, Django, MERN, or REST API design** 
 - ⚡ Fun fact: I love turning complex problems into clean, efficient code.
 
 
