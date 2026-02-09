@@ -6,7 +6,7 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 
 ### 🚀 About Me
 - 🎓 **B.Tech CSE student (2026)** at **CCS University, Meerut**  
-- 💻 Passionate about **Backend Development**, **APIs**, and **Automation**
+- 💻 Passionate about **Backend Development**, **APIs**
 - ⚙️ Experienced with **Django**, **MERN Stack**, and **RESTful Services**
 - 🤖 Exploring **Machine Learning** and **AI-driven applications**
 - 🌱 Currently learning **NLP**, **GenAI**, and **Advanced DSA**
