@@ -9,9 +9,9 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 - 💻 Passionate about **Backend Development**, **APIs**
 - ⚙️ Experienced with **Django**, **MERN Stack**, and **RESTful Services**
 - 🤖 Exploring **Machine Learning** and **AI-driven applications**
-- 🌱 Currently learning **NLP**, **GenAI**, and **Advanced DSA**
+- 🌱 Currently learning **NLP**, **GenAI**, and **Advanced DSA - C++**
 - 👯 Looking to collaborate on **open-source** and **real-world tech projects**
-- 💬 Ask me about **Python, Django, MERN, or REST API design** 
+- 💬 Ask me about **Python, JavaScript, Django, MERN, or REST API design** 
 - ⚡ Fun fact: I love turning complex problems into clean, efficient code.
 
 
