@@ -2,7 +2,7 @@
 
 **An Upcoming Software Engineer | Full-Stack & MERN/Django Developer | AI/ML Enthusiast**
 
-For collaboration **arifquerry@gmail.com** 🙌😊.
+// For collaboration **arifquerry@gmail.com** 🙌😊.
 
 ### 🚀 About Me
 - 🎓 **B.Tech CSE student (2026)** at **CCS University, Meerut**  
