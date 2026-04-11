@@ -12,7 +12,7 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 - 🌱 Currently learning **NLP**, **GenAI**, and **Advanced DSA - C++**
 - 👯 Looking to collaborate on **open-source** and **real-world tech projects** to improve my skils
 - 💬 Ask me about **Python, JavaScript, Django, MERN, or REST API design** 
-- ⚡ Fun fact: I love turning complex problems into clean, efficient code.
+- ⚡ Fun fact: **I love turning complex problems into clean, efficient code.**
 
 
 # 📊 GitHub Stats:
