@@ -16,10 +16,9 @@ For collaboration **arifquerry@gmail.com** 🙌😊.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arry043&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arry043&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arry043&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-all-stats.vercel.app/api?username=arry043&v=1" alt="Preview of GitHub All Stats" />
+</div>
 
 
 ## 🤔 Problem Solving:
