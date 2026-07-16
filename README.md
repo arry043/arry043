@@ -14,7 +14,6 @@ For collaboration **arifquerry@gmail.com** 🙌😊
 - 💬 Ask me about **Python, JavaScript, Django, MERN, or REST API design** 
 - ⚡ Fun fact: **I love turning complex problems into clean, efficient code.**
 
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-all-stats.vercel.app/api?username=arry043&v=1" alt="Preview of GitHub All Stats" />
