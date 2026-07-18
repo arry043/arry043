@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack & MERN/Django Developer | AI/ML Enthusiast**
 
-For collaboration **arifquerry@gmail.com** 🙌😊
+For collaboration **arifquerry@gmail.com** 🙌
 
 
 ### 🚀 About Me
